@@ -15,8 +15,6 @@ sidebar-width = "250px"
 [output.html]
 default-theme = "ayu"
 git-repository-url = ""
-additional-css = ["theme/pagetoc.css"]
-additional-js = ["theme/pagetoc.js"]
 
 [output.html.fold]
 enable = false

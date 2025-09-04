@@ -1,5 +1,4 @@
 # Chapter 1
-Hello world
 
 ## Section 1
 
